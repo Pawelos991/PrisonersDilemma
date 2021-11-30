@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623832043 source:c:\wszio\studia\obecne przedmioty\biai - proj\c++\prisoner's dilemma\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
